@@ -2,7 +2,7 @@ node {
   
    stage('SCM') {
       // git clone
-	  git 'https://github.com/aja6009/spring-petclinic.git'
+	  git 'https://github.com/aja6009/game-of-life.git'
 	  
    }
    
